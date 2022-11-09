@@ -82,6 +82,24 @@ header {
     transition: .4s;
 }
 
+#tails {
+    background-position: -150px 0;
+}
+
+#knuckles {
+    background-position: -300px 0;
+}
+
+#amy {
+    background-position: -450px 0;
+}
+
+#shadow {
+    background-position: -600px 0;
+}
+
+#rouge {
+=======
 #carol {
     background-position: -150px 0;
 }
