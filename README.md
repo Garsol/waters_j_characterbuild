@@ -1,6 +1,6 @@
-# waters_j_characterbuild
+# waters_j_sonicbuild
 
-TODO: Write a project description
+Made a webpage about various sonic characters.
 
 ## Installation
 
@@ -18,15 +18,12 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 
-TODO: Write credits
+Website Made by Jack Waters
+Sonic the Hedgehog is owned by SEGA
 
 ## License
 
-TODO: Write license
+MIT
  
