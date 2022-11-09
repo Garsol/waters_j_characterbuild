@@ -2,14 +2,6 @@
 
 Made a webpage about various sonic characters.
 
-## Installation
-
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
-
 ## Contributing
 
 1. Fork it!
