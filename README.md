@@ -1,4 +1,4 @@
-# waters_j_sonicbuild
+# waters_j_soniccharacters
 
 Made a webpage about various sonic characters.
 
