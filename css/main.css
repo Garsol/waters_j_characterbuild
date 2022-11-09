@@ -19,7 +19,7 @@ body {
 /* style the header */
 
 header {
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(0, 174, 255);
     position: sticky;
     top: 0;
     text-align: center;
@@ -34,10 +34,10 @@ header {
 
 #character-nav{
     text-align: center; 
-    background-color: rgb(139, 101, 101);
+    background-color: rgb(150, 197, 228);
 
     /* add a background image to the nav element */
-    background-image: url('../images/marvelspread.jpeg');
+    background-image: url('../images/green_hill.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -62,7 +62,7 @@ header {
 .char li {
     display: inline-block;
     height: 320px;
-    margin: 10px 8px;
+    margin: 25px 70px;
     
 
     background-color: black;
@@ -102,9 +102,25 @@ header {
     background-position: -750px 0;
 }
 
+#silver {
+    background-position: -900px 0;
+}
+
+#blaze {
+    background-position: -1050px 0;
+}
+
+#metal {
+    background-position: -1200px 0;
+}
+
+#eggman {
+    background-position: -1350px 0;
+}
+
 .red-bumper {
     height: 6px;
-    background-color: red;
+    background-color: rgb(0, 4, 255);
 }
 
 .char li img{
@@ -135,7 +151,7 @@ footer {
     color: white;
     padding: 20px 0;
     text-align: center;
-    background-color: rgb(90, 90, 90);
+    background-color: rgb(57, 135, 187);
 }
 
 .stick_footer {
@@ -159,7 +175,7 @@ footer {
     background-color: rgba(0, 0, 0, 0.85);
     background-repeat: no-repeat;
 
-    background-position: 45px bottom;
+    background-position: 45px ;
     background-size: 60vh;
     
 }
@@ -195,11 +211,38 @@ footer {
 }
 
 #lightBox {
-    background-image: url('../images/Cap_LB_Bg.png');
+    background-image: url('../images/Sonic-Rail.png');
+    background-size: 790px;
 }
 
 #lightBox2 {
-    background-image: url('../images/Thor_LB_Bg.png');
+    background-image: url('../images/Shadow-Pose.png');
+    background-size: 790px;
+}
+
+#lightBox3 {
+    background-image: url('../images/metal-sonic.png');
+        background-size: 790px;
+}
+
+#lightBox4 {
+    background-image: url('../images/silver-pose.png');
+        background-size: 790px;
+}
+
+#lightBox5 {
+    background-image: url('../images/dr-eggman.png');
+        background-size: 790px;
+}
+
+#lightBox6 {
+    background-image: url('../images/knuckles-pose.png');
+        background-size: 790px;
+}
+
+#lightBox7 {
+    background-image: url('../images/blaze-pose.png');
+        background-size: 500px;
 }
 
 /* Toggle lightbox on*/
